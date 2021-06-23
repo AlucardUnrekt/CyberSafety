@@ -10,7 +10,7 @@ content1 | content2
 
 Everyone may have a different motivation for setting up anonymity and security for their devices, and you will probably find this chapter not very useful and skip it. It is your right, but I don't recommend doing it, because it will outline some very interesting reasons to think about your network security and anonymity. They will very likely give you extra motivation to follow our advices. 
 
-If I begin this chapter with a question, it would be logical to continue it in the same way, with questions. All questions are linked to the real cases from all over the world. Here they are:
+If I begin this chapter with a question, it would be logical to continue it in the same way, with questions. All of them are linked to the real cases from all over the world. Here they are:
 
 * [Do you watch porn?](https://www.theregister.com/2013/02/18/web_cam_singapore_blackmail/)
 * [Are there any websites that are banned in your country?](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)

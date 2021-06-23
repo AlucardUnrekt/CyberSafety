@@ -8,6 +8,11 @@ content1 | content2
 
 ## Level 0. Why I do need security and anonymity?
 
+As Edward Snowden said
+>>Arguing that you don't care about the right to privacy because you 
+>>have nothing to hide is no different than saying you don't care 
+>>about free speech because you have nothing to say.
+
 Everyone may have a different motivation for setting up anonymity and security for their devices, and you will probably find this chapter not very useful and skip it. It is your right, but I don't recommend doing it, because it will outline some very interesting reasons to think about your network security and anonymity. They will very likely give you extra motivation to follow our advices. 
 
 If I begin this chapter with a question, it would be logical to continue it in the same way, with questions. All of them are linked to the real cases from all over the world. Here they are:
@@ -24,3 +29,5 @@ I think, you now know why do you need security and anonymity. If no, please, sen
 Central Intelligence Agency
 Office of Public Affairs
 Washington, DC 20505
+
+## Level 1. 

@@ -12,13 +12,13 @@ Everyone may have a different motivation for setting up anonymity and security f
 
 If I begin this chapter with a question, it would be logical to continue it in the same way, with questions. All questions are linked to the real cases from all over the world. Here they are:
 
-Do you watch porn? (Real case: https://www.theregister.com/2013/02/18/web_cam_singapore_blackmail/)
-Are there any websites that are banned in your country? (Real case: https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
-Would you like to be fined for downloading pirated content? (Real case: https://www.newser.com/story/306788/woman-gets-6-months-for-using-pirated-copies-of-windows.html)
-Are you ready to be arrested for posting your photos online? (Real case: https://nypost.com/2021/04/20/actress-jailed-in-ghana-for-posing-naked-with-son-on-7th-birthday/)
-Would you like to have your online activity tracked, analyzed, and based on that, a portrait of you will be created? (Real case: https://digit.fyi/uk-mass-surveillance-programmes-ruled-illegal/)
-Do you like being followed by intelligence agencies? (Real case: http://wikileaks.org/)
-Would you like your online activity data to be studied by advertisers and then sold? (Real case: https://www.medicalnewstoday.com/articles/do-mhealth-apps-protect-user-privacy)
+[Do you watch porn?](https://www.theregister.com/2013/02/18/web_cam_singapore_blackmail/)
+[Are there any websites that are banned in your country?](https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
+[Would you like to be fined for downloading pirated content?](https://www.newser.com/story/306788/woman-gets-6-months-for-using-pirated-copies-of-windows.html)
+[Are you ready to be arrested for posting your photos online?](https://nypost.com/2021/04/20/actress-jailed-in-ghana-for-posing-naked-with-son-on-7th-birthday/)
+[Would you like to have your online activity tracked, analyzed, and based on that, a portrait of you will be created?](https://digit.fyi/uk-mass-surveillance-programmes-ruled-illegal/)
+[Do you like being followed by intelligence agencies?](http://wikileaks.org/)
+[Would you like your online activity data to be studied by advertisers and then sold?](https://www.medicalnewstoday.com/articles/do-mhealth-apps-protect-user-privacy)
 
 I think, you now know why do you need security and anonymity. If no, please, send questions and comments to:
 Central Intelligence Agency

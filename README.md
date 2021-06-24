@@ -6,7 +6,7 @@ Navigaton | Link
 ----------- | -----------
 content1 | content2
 
-## Level 0. Why I do need security and anonymity?
+## Level 0. Why do I need security and anonymity?
 
 ##### As Edward Snowden said
 >*Arguing that you don't care about the right to privacy because you 
@@ -53,7 +53,7 @@ Passwords of normal importance are all other passwords you use, such as password
 
 All information on your computer must be encrypted and you have to enter a password to decrypt it. This is a password of high importance, which you keep in your head. When you have decrypted your hard drive, you can access all your passwords of normal importance, that are stored in the encrypted key file of the password manager. You also use a high priority password to decrypt this file.
 
-Now let's talk about creating passwords that are practically unbreackable. "Practically unbreakable", because in theory any password can be recovered sooner or later, but it can take thousands of years to find it.
+Now let's talk about creating passwords that are practically unbreackable. "Practically unbreakable", because in theory any password can be recovered sooner or later, but it can take thousands of years to do it.
 
 Strong password requirements:
 * You can not use dates, especially meaningful dates, like your birthday or birthdays of your relatives.

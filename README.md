@@ -36,4 +36,10 @@ Washington, DC 20505
 
 Weak password can easily ruin all your further efforts to protect your confidential data, so this chapter is placed at the beginning and without big words is the basis for all your attempts in staying safe and anonymous.
 
+Using strong passwords is not as simple as it may seem at first sight. And although most users know the fundamental requirements for a strong password, they forget about them in everyday life, preferring a simple and easy-to-remember password to a strong one.
 
+My first suggestion is to divide all passwords by importance: high importance and normal importance. What are high importance passwords used for? For sites, crypto containers or programs that are particularly important to you. I use four high importance passwords. 
+
+The first, second and third are passwords for decrypting the hard drive and the information on it, and for decrypting information on encrypted external hard drives (the third password is a "double-bottom" password). The fourth one is the password for accessing the rest of the passwords in the KeePassXC password manager, which we will talk about further.
+
+![Screenshot_8](https://user-images.githubusercontent.com/86369276/123271249-4ee53c00-d509-11eb-917d-614c16cb6eda.png)

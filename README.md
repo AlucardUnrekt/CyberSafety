@@ -40,6 +40,6 @@ Using strong passwords is not as simple as it may seem at first sight. And altho
 
 My first suggestion is to divide all passwords by importance: **high importance** and **normal importance**. What are high importance passwords used for? For sites, cryptocontainers or programs that are particularly important to you. I use four high importance passwords. 
 
-![Screenshot_9](https://user-images.githubusercontent.com/86369276/123275046-adf88000-d50c-11eb-85c3-98b7ced6a291.png)
+![Screenshot_9](https://user-images.githubusercontent.com/86369276/123275308-e009e200-d50c-11eb-9e63-5252865d032f.png)
 
 The first, second and third are passwords for decrypting the hard drive and the information on it, and for decrypting information on encrypted external hard drives (the third password is a "double-bottom" password). The fourth one is the password for accessing the rest of the passwords in the KeePassXC password manager, which we will talk about further.

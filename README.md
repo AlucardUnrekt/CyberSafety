@@ -13,6 +13,8 @@ content1 | content2
 >have nothing to hide is no different than saying you don't care 
 >about free speech because you have nothing to say.*
 
+![edward-snowden-profile-ifex](https://user-images.githubusercontent.com/86369276/123266886-15123680-d505-11eb-8bf7-1265507f6609.jpg)
+
 Everyone may have a different motivation for setting up anonymity and security for their devices, and you will probably find this chapter not very useful and skip it. It is your right, but I don't recommend doing it, because it will outline some very interesting reasons to think about your network security and anonymity. They will very likely give you extra motivation to follow our advices. 
 
 If I begin this chapter with a question, it would be logical to continue it in the same way, with questions. All of them are linked to the real cases from all over the world. Here they are:
@@ -26,8 +28,12 @@ If I begin this chapter with a question, it would be logical to continue it in t
 * [Would you like your online activity data to be studied by advertisers and then sold?](https://www.medicalnewstoday.com/articles/do-mhealth-apps-protect-user-privacy)
 
 I think, you now know why do you need security and anonymity. If no, please, send questions and comments to:
-Central Intelligence Agency
-Office of Public Affairs
+Central Intelligence Agency,
+Office of Public Affairs,
 Washington, DC 20505
 
-## Level 1. 
+## Level 1. Strong password
+
+Weak password can easily ruin all your further efforts to protect your confidential data, so this chapter is placed at the beginning and without big words is the basis for all your attempts in staying safe and anonymous.
+
+

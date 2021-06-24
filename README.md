@@ -38,7 +38,7 @@ Weak password can easily ruin all your further efforts to protect your confident
 
 Using strong passwords is not as simple as it may seem at first sight. And although most users know the fundamental requirements for a strong password, they forget about them in everyday life, preferring a simple and easy-to-remember password to a strong one.
 
-My first suggestion is to divide all passwords by importance: high importance and normal importance. What are high importance passwords used for? For sites, crypto containers or programs that are particularly important to you. I use four high importance passwords. 
+My first suggestion is to divide all passwords by importance: high importance and normal importance. What are high importance passwords used for? For sites, cryptocontainers or programs that are particularly important to you. I use four high importance passwords. 
 
 ![Screenshot_8](https://user-images.githubusercontent.com/86369276/123271664-bdc29500-d509-11eb-9b3a-3f9ab4620a1f.png)
 

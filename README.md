@@ -62,4 +62,4 @@ Strong password requirements:
 * The password must include upper and lower case letters, more than one number, and special characters. 
 * This password should not contain information related to you, address, pet names, date of birth, phone number, favorite team.
 
-Coming up with a strong password that would meet all the requirements above and at the same time be as easy to remember as possible is not the easiest task. I suggest you don't put it off and  come up with some strong passwords for yourself right now.
+Coming up with a strong password that would meet all the requirements above and at the same time be easy to remember is not the easiest task. I suggest you not to put it off and  come up with some strong high importance passwords for yourself right now.

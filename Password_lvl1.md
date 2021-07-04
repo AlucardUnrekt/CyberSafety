@@ -21,10 +21,14 @@ All information on your computer must be encrypted and you have to enter a passw
 Now let's talk about creating passwords that are practically unbreackable. "Practically unbreakable", because in theory any password can be recovered sooner or later, but it can take thousands of years to do it.
 
 Strong password requirements:
-* You can not use dates, especially meaningful dates, like your birthday or birthdays of your relatives.
+* You must not use dates, especially meaningful dates, like your birthday or birthdays of your relatives.
 * Your password must not be a word or a phrase. For example, "Vaeltat193" is much stronger than "Valetta193".
 * Your password must contain **AT LEAST** 20 symbols. It is not so hard as it seems. *hint: counter-intelligence contatins 20 symbols, electroencephalography contains 21 symbols*
 * The password must include upper and lower case letters, more than one number, and special characters. 
-* This password should not contain information related to you, address, pet names, date of birth, phone number, favorite team.
+* This password must not contain information related to you, address, pet names, date of birth, phone number, favorite team.
 
 Coming up with a strong password that would meet all the requirements above and at the same time be easy to remember is not the easiest task. I suggest you not to put it off and  come up with some strong high importance passwords for yourself right now.
+
+### How to create a high importance password step-by-step
+
+At first, come up with a non-exisitng word. You can use dictionary.cambridge.org to check this fact. For example, *niltrolung*. 
